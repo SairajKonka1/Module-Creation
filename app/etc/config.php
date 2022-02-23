@@ -351,7 +351,6 @@ return [
         'Dotdigitalgroup_Sms' => 1,
         'I95dev_Employee' => 1,
         'I95dev_Module1' => 1,
-        'I95dev_Module2' => 1,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Kp' => 1,
